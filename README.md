@@ -18,7 +18,7 @@ I'm an enthusiastic Techie and a Developer who loves to contribute to the Openso
  
  **Frameworks**
  
-<img alt="reactjs" width="30px" src="/Assets/reactjs.png"/>|<img alt="Bootstrap" width="30px" src="/Assets/bootstrap-logo.png"/>|<img alt="Nodejs" width="30px" src="/Assets/nodejs.png"/>|
+<img alt="reactjs" width="30px" src="/Assets/reactjs.png"/>|<img alt="Bootstrap" width="30px" src="/Assets/bootstrap-logo.png"/>|<img alt="Nodejs" width="40px" src="/Assets/nodejs.png"/>|
  |--|--|--|
  
  **Tools**
