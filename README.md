@@ -11,15 +11,21 @@ I'm an enthusiastic Techie and a Developer who loves to contribute to the Openso
 
  ## My Skills <img alt="Computer" width="40px" src="/Assets/desktop.png"/>
 
- **Languages**
+ **Frontend**
  
- <img alt="C++" width="30px" src="/Assets/c++.png"/>|<img alt="HTML" width="30px" src="/Assets/html.png"/>|<img alt="CSS" width="30px" src="/Assets/css-3.png"/>|<img alt="JavaScript" width="30px" src="/Assets/javascript.png"/>
+<img alt="reactjs" width="30px" src="/Assets/reactjs.png"/>|<img alt="HTML" width="30px" src="/Assets/html.png"/>|<img alt="CSS" width="30px" src="/Assets/css-3.png"/>|<img alt="Bootstrap" width="30px" src="/Assets/bootstrap-logo.png"/>
  |--|--|--|--|
  
- **Frameworks**
+ **Backend**
  
-<img alt="reactjs" width="30px" src="/Assets/reactjs.png"/>|<img alt="Bootstrap" width="30px" src="/Assets/bootstrap-logo.png"/>|<img alt="Nodejs" width="40px" src="/Assets/nodejs.png"/>|
+<img alt="ExpressJs" width="30px" src="/Assets/expressjs.png"/>|<img alt="JavaScript" width="30px" src="/Assets/javascript.png"/>|<img alt="Nodejs" width="40px" src="/Assets/nodejs.png"/>|
  |--|--|--|
+
+ **Database**
+
+ <img alt="MongoDB" width="30px" src="/Assets/mongodb.png"/>|
+ |--|
+ 
  
  **Tools**
  
