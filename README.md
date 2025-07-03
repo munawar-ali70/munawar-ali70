@@ -23,7 +23,7 @@ I'm an enthusiastic Techie and a Developer who loves to contribute to the Openso
 
  **Database**
 
- <img alt="MongoDB" width="30px" src="/Assets/mongodb.png"/>|
+ <img alt="MongoDB" width="30px" src="/Assets/mongodb.svg"/>|
  |--|
  
  
