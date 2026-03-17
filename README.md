@@ -21,6 +21,11 @@ I'm an enthusiastic Techie and a Developer who loves to contribute to the Openso
 <img alt="ExpressJs" width="30px" src="/Assets/expressjs.png"/>|<img alt="JavaScript" width="30px" src="/Assets/javascript.png"/>|<img alt="Nodejs" width="40px" src="/Assets/nodejs.png"/>|
  |--|--|--|
 
+**Quality Assurance (SQA)**
+
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white" />|<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" />|<img src="https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white" />
+  |--|--|--|
+
  **Database**
 
  <img alt="MySQL" width="30px" src="/Assets/MySQL Logo.svg"/>|
