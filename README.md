@@ -18,7 +18,7 @@ I'm an enthusiastic Techie and a Developer who loves to contribute to the Openso
  
  **Backend**
  
-<img alt="ExpressJs" width="30px" src="/Assets/expressjs.png"/>|<img alt="JavaScript" width="30px" src="/Assets/javascript.png"/>|<img alt="Nodejs" width="40px" src="/Assets/nodejs.png"/>|
+<img alt="Java" width="30px" src="/Assets/Java.png"/>|<img alt="Spring Boot" width="30px" src="/Assets/springboot.png"/>|<img alt="Spring Security" width="40px" src="/Assets/springsecurity.png"/>|
  |--|--|--|
 
 **Quality Assurance (SQA)**
@@ -28,8 +28,8 @@ I'm an enthusiastic Techie and a Developer who loves to contribute to the Openso
 
  **Database**
 
- <img alt="MySQL" width="30px" src="/Assets/MySQL Logo.svg"/>|
- |--|
+ <img alt="MySQL" width="30px" src="/Assets/MySQL Logo.svg"/>|<img alt="MongoDB" width="30px" src="/Assets/mongodb.svg"/>|
+ |--|--|
  
  
  **Tools**
