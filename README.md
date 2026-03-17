@@ -23,14 +23,14 @@ I'm an enthusiastic Techie and a Developer who loves to contribute to the Openso
 
  **Database**
 
- <img alt="MongoDB" width="30px" src="/Assets/MySQL Logo.svg"/>|
+ <img alt="MySQL" width="30px" src="/Assets/MySQL Logo.svg"/>|
  |--|
  
  
  **Tools**
  
-|<img alt="VSCode" width="30px" src="/Assets/vscode.png"/>|
- |--|
+|<img alt="VSCode" width="30px" src="/Assets/vscode.png"/>|<img alt="IntelliJ" width="30px" src="/Assets/IntelliJ.png"/>
+ |--|--|
 
 
  **Connect with Me**
