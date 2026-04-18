@@ -16,7 +16,7 @@ I'm an enthusiastic Techie and a Developer who loves to contribute to the Openso
 <img alt="reactjs" width="30px" src="/Assets/reactjs.png"/>|<img alt="HTML" width="30px" src="/Assets/html.png"/>|<img alt="CSS" width="30px" src="/Assets/css-3.png"/>|<img alt="Bootstrap" width="30px" src="/Assets/bootstrap-logo.png"/>
  |--|--|--|--|
  
- **Backend (Java Ecosystem)**
+ **Backend (Ecosystem)**
  
 <img alt="C++" width="30px" src="/Assets/c++.png"/>|<img alt="Java" width="30px" src="/Assets/Java.png"/>|<img alt="Spring Boot" width="30px" src="/Assets/springboot.png"/>|<img alt="Spring Security" width="40px" src="/Assets/springsecurity.png"/>|
  |--|--|--|--|
