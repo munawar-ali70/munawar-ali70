@@ -18,8 +18,8 @@ I'm an enthusiastic Techie and a Developer who loves to contribute to the Openso
  
  **Backend (Java Ecosystem)**
  
-<img alt="Java" width="30px" src="/Assets/Java.png"/>|<img alt="Spring Boot" width="30px" src="/Assets/springboot.png"/>|<img alt="Spring Security" width="40px" src="/Assets/springsecurity.png"/>|
- |--|--|--|
+<img alt="C++" width="30px" src="/Assets/c++.png"/>|<img alt="Java" width="30px" src="/Assets/Java.png"/>|<img alt="Spring Boot" width="30px" src="/Assets/springboot.png"/>|<img alt="Spring Security" width="40px" src="/Assets/springsecurity.png"/>|
+ |--|--|--|--|
 
 **Quality Assurance (SQA)**
 
