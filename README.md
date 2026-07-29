@@ -35,4 +35,4 @@ I'm an enthusiastic Techie and a Developer who loves to contribute to the Openso
 
  **Connect with Me**
 ---
-[<img align="left" alt="Instagram - Munawar Ali" width="30px" src="/Assets/instagram.png" />](https://www.instagram.com/munawar_ali70/) [<img align="left" alt="LinkedIn - Munawar Ali" width="30px" src="/Assets/linkedin.png" />](https://www.linkedin.com/in/munawar-ali-747029241) [<img align="left" alt="Email - Munawar Ali" width="30px" src="/Assets/gmail.png" />](mailto:munawaralijutt70@gmail.com)
+[<img align="left" alt="Instagram - Munawar Ali" width="30px" src="/Assets/instagram.png" />](https://www.instagram.com/munawarali70_/) [<img align="left" alt="LinkedIn - Munawar Ali" width="30px" src="/Assets/linkedin.png" />](https://www.linkedin.com/in/munawar-ali70swe) [<img align="left" alt="Email - Munawar Ali" width="30px" src="/Assets/gmail.png" />](mailto:munawaralijutt70@gmail.com)
