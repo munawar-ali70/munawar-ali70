@@ -23,8 +23,8 @@ I'm an enthusiastic Techie and a Developer who loves to contribute to the Openso
 
  **Database**
 
- <img alt="MySQL" width="30px" src="/Assets/MySQL Logo.svg"/>|<img alt="MongoDB" width="30px" src="/Assets/mongodb.svg"/>|
- |--|--|
+ <img alt="MySQL" width="30px" src="/Assets/MySQL Logo.svg"/>|
+ |--|
  
  
  **Tools**
