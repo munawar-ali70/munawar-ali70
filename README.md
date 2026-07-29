@@ -21,11 +21,6 @@ I'm an enthusiastic Techie and a Developer who loves to contribute to the Openso
 <img alt="C++" width="30px" src="/Assets/c++.png"/>|<img alt="Java" width="30px" src="/Assets/Java.png"/>|<img alt="Spring Boot" width="30px" src="/Assets/springboot.png"/>|<img alt="Spring Security" width="40px" src="/Assets/springsecurity.png"/>|
  |--|--|--|--|
 
-**Quality Assurance (SQA)**
-
-  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white" />|<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" />|<img src="https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white" />
-  |--|--|--|
-
  **Database**
 
  <img alt="MySQL" width="30px" src="/Assets/MySQL Logo.svg"/>|<img alt="MongoDB" width="30px" src="/Assets/mongodb.svg"/>|
