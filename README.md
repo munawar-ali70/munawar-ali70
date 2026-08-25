@@ -9,7 +9,7 @@ I'm an enthusiastic Techie and a Developer who loves to contribute to the Openso
 
 ---
 
- ## My Skills <img alt="Computer" width="40px" src="/Assets/desktop.png"/>
+ ## MY SKILLS    <img alt="Computer" width="40px" src="/Assets/desktop.png"/>
 
 ## Frontend
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
